@@ -2,6 +2,7 @@ This is a list of providers that are bundled within the image. Feel free to crea
 
 | Provider Name           | Config Value (`OPENVPN_PROVIDER`) |
 | :---------------------- | :-------------------------------- |
+| airvpn                  | `airvpn`                          |
 | Anonine                 | `ANONINE`                         |
 | AnonVPN                 | `ANONVPN`                         |
 | BlackVPN                | `BLACKVPN`                        |
